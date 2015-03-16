@@ -9,7 +9,7 @@
 		{
 			"name": "DKeeper",
 			"email": "dkapenkin@rambler.ru"
-		},
+		}
 	],
     "require": {
         "yiisoft/yii2": "*",
