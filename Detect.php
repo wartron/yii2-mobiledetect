@@ -3,8 +3,7 @@
 namespace dkeeper\mobiledetect;
 
 use \yii\base\Component;
-
-require_once dirname(__FILE__) . DIRECTORY_SEPARATOR . 'lib' . DIRECTORY_SEPARATOR . 'Mobile_Detect.php';
+use \mobiledetect\mobiledetect;
 
 class Detect extends \yii\base\Component
 {
