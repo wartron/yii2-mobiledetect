@@ -1,6 +1,6 @@
 <?php
 
-namespace dkeeper\mobiledetect;
+namespace willwharton\mobiledetect;
 
 use \yii\base\Component;
 use \mobiledetect\mobiledetect;
