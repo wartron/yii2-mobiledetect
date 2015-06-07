@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist willwharton/yii2-mobiledetect "*"
+php composer.phar require --prefer-dist wartron/yii2-mobiledetect "*"
 ```
 
 or add
 
 ```
-"willwharton/yii2-mobiledetect": "*"
+"wartron/yii2-mobiledetect": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -35,7 +35,7 @@ return [
     ...
     'components' => [
         'mobiledetect' => [
-            'class' => 'willwharton\mobiledetect\Detect',
+            'class' => 'wartron\mobiledetect\Detect',
         ],
     ],
     ...

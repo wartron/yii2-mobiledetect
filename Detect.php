@@ -1,6 +1,6 @@
 <?php
 
-namespace willwharton\mobiledetect;
+namespace wartron\mobiledetect;
 
 use \yii\base\Component;
 use \mobiledetect\mobiledetect;
