@@ -1,5 +1,5 @@
 {
-	"name": "willwharton/yii2-mobiledetect",
+	"name": "wartron/yii2-mobiledetect",
 	"description": "Detect type of device by information from request",
 	"type": "yii2-extension",
 	"keywords": ["yii2","extension","mobile detect"],
